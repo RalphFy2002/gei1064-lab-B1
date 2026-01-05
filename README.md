@@ -25,3 +25,7 @@ Outils requis
 Vivado Design Suite (pour la synthèse et simulation VHDL)
 
 MATLAB (pour la génération de signaux et l'analyse comparative)
+
+Auteur : Ralph Futa 
+Institution : Université du Québec à Trois-Rivières (UQTR)
+Enseignant : M. Messaoud Ahmed Ouameur
